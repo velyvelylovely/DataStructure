@@ -10,4 +10,8 @@ FIFO(First In First Out) 형태로 데이터를 저장하는 구조
 - dequeue
 - peek
 
-### 큐 동작 방식
+### 큐 사용 사례: Producer/consumer architecture
+
+### 기술 문서에서 큐를 만났을 때 팁
+
+항상 FIFO를 의미하지는 않음
