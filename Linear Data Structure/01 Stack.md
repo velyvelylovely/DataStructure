@@ -1,3 +1,5 @@
+## Stack
+
 ![image](https://github.com/velyvelylovely/DataStructure/assets/98696925/30ade66f-b2a8-4229-9ab7-50a0f4d5a0c8)
 
 스택(Stack)은 LIFO(Last In First Out) 형태로 데이터를 저장하는 자료구조입니다. 이는 가장 최근에 스택에 추가된 항목이 가장 먼저 제거되는 원칙을 따릅니다.
