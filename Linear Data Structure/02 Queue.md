@@ -1,6 +1,6 @@
 ## Queue
 
-큐(Queue)는 데이터를 관리하는 방법 중 하나로, First In First Out(FIFO)라는 원칙에 따릅니다. 이 FIFO 원칙은 '먼저 들어온 데이터가 먼저 나간다'는 것을 의미합니다. 즉, 가장 먼저 큐에 추가된 항목이 가장 먼저 제거되는 구조를 가지고 있습니다.
+큐(Queue)는 데이터를 관리하는 방식 중 하나로, First In First Out(FIFO) 원칙을 따릅니다. 이 원칙은 '먼저 들어온 데이터가 먼저 나간다'는 것을 의미합니다. 다시 말하면, 가장 먼저 큐에 추가된 항목이 가장 먼저 제거되는 구조를 가지고 있습니다.
 
 ![큐](https://github.com/velyvelylovely/DataStructure/assets/98696925/d71c9bb8-b675-44fe-bf5f-10e81deeee44)
 
